@@ -1,0 +1,123 @@
+@charset "utf-8";
+
+body{
+  padding: 0;
+  margin: 0;
+  background-color: #3b3b3b;
+  display: inline-block;
+}
+
+#cabeca{
+  height: 200px;
+  width: 100%;
+  background-image:linear-gradient(#ff0000,#ffffff,#0000ff);
+  border-style:dotted;
+  border-color: #ffe4c4;
+  border-radius: 1%;
+  margin-top: 10px;
+
+}
+
+#cabeca_titulo{
+font-size: 4rem;
+font-family: cursive;
+color: #000000;
+text-align: center;
+padding-top: 10px;
+
+}
+#coluna1{
+  display: inline-block;
+  border-style: double;
+  border-radius: 2%;
+  margin-left: 30px;
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 2px;
+  background-color:#ffffffa8;
+  font-size: 25px;
+  font-family: fantasy;
+}
+
+#titulo_promocao{
+  font-size: 4rem;
+  font-family:cursive;
+  color: #030005;
+  text-align: center;
+
+
+}
+#coluna2{
+  display: inline-block;
+  border-style: double;
+  border-radius: 2%;
+  background-color:#ffffffa8;
+  font-size: 35px;
+  font-family: fantasy;
+  margin-left: 30px;
+  margin-right: 10px;
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+ 
+  
+}
+
+#graca{
+  color:#ff0000;
+}
+
+#coluna3{
+  display:inline-block;
+  border-style: double;
+  border-radius: 2%;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: #ffffffa8;
+  margin-top: 10px;
+
+}
+
+#voltar{
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+
+}
+
+#button_back{
+  font-size: 30px;
+  
+}
+
+#link_voltar{
+  text-decoration: none;
+  color:#000000;
+}
+
+#text_q{
+  font-family: monospace;
+  font-size: 50px;
+  color: #000000;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 10px;
+
+
+}
+
+#quarta{
+  color: #ff0000;
+  text-decoration:none;
+
+
+}
+
+#cinco_reais{
+  color:#ff0000;
+}
+

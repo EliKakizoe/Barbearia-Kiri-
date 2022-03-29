@@ -1,0 +1,70 @@
+@charset "utf-8";
+
+body{
+  padding: 0;
+  margin: 0;
+  background-color: rgb(59, 59, 59);
+}
+
+#titulo_contatos{
+  font-family: fantasy;
+  font-size: 4rem;
+  text-align: center;
+  margin-top: 80px;
+  color: rgb(255,255,255);
+  
+}
+
+#quadrado1{
+  width: 200px;
+  height:150px;
+  background-color: white;
+  margin-left: 15%;
+  margin-top: 10%;
+}
+
+#quadrado2{
+  width: 200px;
+  height:150px;
+  background-color: white;
+  margin-right: 20%;
+  margin-left: 60%;
+  margin-top: 10%;
+}
+
+#quadrado3{
+  width: 200px;
+  height:150px;
+  background-color: white;
+  margin-left: 15%;
+  margin-top: 10%;
+}
+
+.texto_baixo{
+  padding-top: 10px;
+  margin-bottom: 10px;
+  position: inherit;
+  font-family: monospace;
+  font-size: 35px;
+  color: rgb(255, 238, 0);
+  text-align: center;
+}
+
+
+
+#button_back{
+  margin-bottom: 1px;
+  position: inherit;
+  margin-top: 20%;
+  margin-left: 20px;
+  font-size: 30px;
+
+  
+}
+
+#link_voltar{
+  text-decoration: none;
+  color:#000000;
+
+}
+

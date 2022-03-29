@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+body{
+  margin: 0;
+  padding: 0;
+  background-color: rgb(59,59,59);
+}
+
+#titulo_galeria{
+  font-size: 4rem;
+  font-family:cursive;
+  color:rgb(255,255,255);
+  text-align: center;
+}
+
+.foto{
+  height: 250px;
+  width: 250px;
+}
+
+#fileira1{
+  width: 90%;
+  background-color: rgba(91, 68, 114, 0.404);
+  padding-left: 80px;
+}
+
+#fileira2{
+  width: 80%;
+  background-color: rgba(59, 59, 112, 0.438);
+  padding-right: 80px;
+  padding-left: 60px;
+
+}
+
+#fileira3{
+  width: 72%;
+  background-color: rgba(12, 73, 92, 0.438);
+  padding-right: 80px;
+  padding-left: 50px;
+
+}
+
+#voltar{
+  margin-left: 20px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-right: 2px;
+  padding-left: 2px;
+
+}
+
+#link_voltar{
+  font-size: 30px;
+  text-decoration: none;
+  color:#000000
+}

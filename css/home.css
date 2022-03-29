@@ -1,0 +1,94 @@
+@charset "utf-8";
+
+body{
+  padding: 0;
+  margin: 0;
+ background-color: #3b3b3b;
+}
+
+
+
+
+
+
+
+.banner-top{
+  width: 40vw;
+  height: 50vh;
+  padding: 2% 10%;
+  border-top: 1%;
+  border-left: 1%;
+  border-right: 1%;
+  margin-left: 20%;
+  margin-top: 6%;
+  border-color: #000000;
+  border-radius: 50% 50% 50% 50%;
+  position: relative;
+  border-width: 10px;
+  border-color: #906a02;
+  border-style: double;
+  background-color: #ffffff;
+  background-image:linear-gradient(#ffffff7a,#9b9a987e,#00000044);
+
+}
+
+.titulo{
+  font-size: 80px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  color:#6033a7;
+  border-width: 16px;
+  border:solid 7px black;
+  background-image:linear-gradient(#ff0000,#ffffff,#5353d4f8);
+
+}
+
+.menu-lista{
+  display: flex;
+  justify-content:flex-start;
+  align-items: center;
+  margin-top: 130px;
+  margin-bottom: 60px;
+}
+
+.lista-nav li{
+  list-style-type: none;
+
+}
+
+.menu-lista-link p a {
+  list-style: none;
+  font-family: monospace;
+  font-size: 30pt;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: center;
+}
+
+.menu-lista-link a:hover{
+  cursor: pointer;
+}
+
+.cadeira{
+  margin-left: 30%;
+ 
+}
+
+#rodape{
+  font-size: 35px;
+  color: #000000;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  border-style:ridge;
+  border: 7px solid #000000;
+  border-radius: 25px;
+  padding: 10px 10px 0px 10px;
+  margin:10px 10px 20px 10px;
+  background-image:linear-gradient(#ff0000,#ffffff,#5353d4f8);
+}
+
+#nota_de_rodape{
+  text-align: center;
+  font-size: 20px;
+  text-decoration: none;
+}
